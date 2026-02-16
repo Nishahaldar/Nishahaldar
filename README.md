@@ -3,7 +3,7 @@
 👋 Hi, I’m <p>
 <img src="https://readme-typing-svg.demolab.com?font=Algerian+Code&size=50&pause=1000&color=00F5FF&left=true&vCenter=true&width=500&lines=Nisha" />
 </p>
-<br>Data Analyst  <br> Python <br> PoweBI, Tableau<br>📊 Data & Automation Explorer
+<br> *Data Analyst  <br> *Python <br> PoweBI, Tableau<br>📊 Data & Automation Explorer
 
 
 
